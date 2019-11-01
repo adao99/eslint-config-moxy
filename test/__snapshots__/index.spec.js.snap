@@ -397,28 +397,6 @@ Array [
 ]
 `;
 
-exports[`should pass on fixtures/rules/css-modules/undefined.js 1`] = `
-Array [
-  Object {
-    "column": 41,
-    "line": 8,
-    "rule": "css-modules/no-undef-class",
-    "severity": 2,
-  },
-]
-`;
-
-exports[`should pass on fixtures/rules/css-modules/unused.js 1`] = `
-Array [
-  Object {
-    "column": 8,
-    "line": 2,
-    "rule": "css-modules/no-unused-class",
-    "severity": 1,
-  },
-]
-`;
-
 exports[`should pass on fixtures/rules/errors/errors.js 1`] = `
 Array [
   Object {
@@ -894,6 +872,28 @@ Array [
     "column": 5,
     "line": 27,
     "rule": "handle-callback-err",
+    "severity": 1,
+  },
+]
+`;
+
+exports[`should pass on fixtures/rules/postcss-modules/undefined.js 1`] = `
+Array [
+  Object {
+    "column": 34,
+    "line": 8,
+    "rule": "postcss-modules/no-undef-class",
+    "severity": 2,
+  },
+]
+`;
+
+exports[`should pass on fixtures/rules/postcss-modules/unused.js 1`] = `
+Array [
+  Object {
+    "column": 1,
+    "line": 2,
+    "rule": "postcss-modules/no-unused-class",
     "severity": 1,
   },
 ]
