@@ -4,6 +4,6 @@
         "../../../../es6.js",
         "../../../../addons/react.js",
         "../../../../addons/es-modules.js",
-        "../../../../addons/postcss-modules.js"
+        "../../../../addons/postcss-module.js"
     ]
 }

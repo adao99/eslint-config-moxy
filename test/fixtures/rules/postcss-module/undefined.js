@@ -1,7 +1,7 @@
 import React from 'react';
 import styles from './test.css';
 
-// `postcss-modules/no-undef-class` - alerts when using a CSS class that is not defined
+// `postcss-module/no-undef-class` - alerts when using a CSS class that is not defined
 // ---------------------------------------------------------------------
 // Bad
 (function () {

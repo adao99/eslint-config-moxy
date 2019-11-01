@@ -1,4 +1,4 @@
-// eslint-plugin-postcss-modules: https://github.com/atfzl/eslint-plugin-css-modules
+// eslint-plugin-postcss-module: https://github.com/atfzl/eslint-plugin-css-modules
 
 'use strict';
 

@@ -877,7 +877,7 @@ Array [
 ]
 `;
 
-exports[`should pass on fixtures/rules/postcss-modules/undefined.js 1`] = `
+exports[`should pass on fixtures/rules/postcss-module/undefined.js 1`] = `
 Array [
   Object {
     "column": 34,
@@ -888,7 +888,7 @@ Array [
 ]
 `;
 
-exports[`should pass on fixtures/rules/postcss-modules/unused.js 1`] = `
+exports[`should pass on fixtures/rules/postcss-module/unused.js 1`] = `
 Array [
   Object {
     "column": 1,

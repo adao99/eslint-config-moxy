@@ -3,6 +3,6 @@
 module.exports = {
     'plugins': ['postcss-modules'],
     'extends': [
-        '../rules/postcss-modules',
+        '../rules/postcss-module',
     ],
 };
